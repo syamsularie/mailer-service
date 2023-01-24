@@ -1,0 +1,13 @@
+
+cloud:
+  aws:
+    region:
+      static: ap-southeast-1
+      auto: false
+    stack:
+      auto: false
+    credentials:
+      access-key: "****"
+      secret-key: "****"
+server:
+  port: 9004
