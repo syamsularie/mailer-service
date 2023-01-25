@@ -15,7 +15,7 @@ server:
 integration:
   aws-sqs:
     region: "ap-southeast-3"
-    access-key: "AKIA2WLDYKX5LTUYY7VF"
-    secret-key: "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"
+    access-key: "****"
+    secret-key: "****"
     queue-url: "https://sqs.ap-southeast-3.amazonaws.com/735185491450/kezbek-notification-email"
     queue-name: "kezbek-notification-email"
